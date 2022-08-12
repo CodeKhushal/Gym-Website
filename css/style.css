@@ -35,7 +35,7 @@ body{
 /* Mid part of header section */
 .mid{
     display: block;
-    width: 50%;
+    width: 40%;
     margin: 29px auto;
 }
 
@@ -52,10 +52,6 @@ body{
 /* Navigation Bar */
 .navbar{
     display: inline-block;
-    /* background-color: rgb(168, 118, 118); */
-    background-color: rgba(255, 255, 255, 0.5);
-    opacity: 0.5;
-    border-radius: 30px;
     margin-top: 20px;
 }
 
